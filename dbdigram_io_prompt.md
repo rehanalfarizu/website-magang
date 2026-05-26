@@ -1,14 +1,9 @@
-# PROMPT: dbdiagram.io ERD Generator
+#ERD 
 ## Sistem Magang AMIKOM
 
 ---
 
-## PROMPT UNTUK DBDIAGRAM.IO
-
 ```
-Buatkan ERD di dbdiagram.io untuk Sistem Pendaftaran dan Monitoring Magang AMIKOM.
-
-Copy kode DBML berikut ke https://dbdiagram.io/d
 
 ================================================================================
 COPY DARI BAWAH INI
@@ -253,44 +248,6 @@ SAMPAI SINI
 ```
 
 ---
-
-## CARA PAKAI DI DBDIAGRAM.IO
-
-### Step 1: Buka dbdiagram.io
-
-```
-1. Buka browser
-2. Kunjungi https://dbdiagram.io/d
-3. Halaman akan tampil dengan text editor kosong
-```
-
-### Step 2: Paste Kode
-
-```
-1. Hapus semua teks default di editor
-2. Paste semua kode DBML di atas
-3. Editor akan auto-generate ERD di samping kanan
-```
-
-### Step 3: Atur Tampilan
-
-```
-TABEL:
-- Drag untuk pindahkan posisi
-- Click untuk expand/collapse kolom
-- Double-click untuk edit
-
-WARNA (klik kanan tabel):
-- mahasiswa, dosen, admin_prodi, mitra → #4A90D9 (Blue)
-- lowongan → #5CB85C (Green)
-- pendaftaran, penugasan_dosen → #F0AD4E (Orange)
-- logbook, logbook_task, logbook_bukti → #9B59B6 (Purple)
-- notifikasi, bookmark, task_magang → #94C5CC (Teal)
-
-HUBUNGAN:
-- Klik garis FK untuk ubah style
-- Pilih "Crow's Foot" untuk cardinality
-```
 
 ### Step 4: Export
 
