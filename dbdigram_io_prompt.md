@@ -1,4 +1,4 @@
-#ERD 
+# ERD 
 ## Sistem Magang AMIKOM
 
 ---
